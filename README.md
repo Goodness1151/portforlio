@@ -4,6 +4,10 @@ i enjoy building interactive dashboards, cleaning data, and helping business mak
 
 ## SKILLS AND EXPERTISE
 <P align="left">
-<img
+<!-- programming & Databases -->
+  <img
 src="https://cdn.jsdelivr.net/gh/devicon
-  s/devicon/icons/python/python-original.svg" width="40"/>
+  s/devicon/icons/python/python-original.svg" width="45" title="python"/>
+  <img
+  src="https://cdn.jsdelivr.net/gh/devicon
+  s/devicon/icons/postgresql/postgresql-original.svg" width="45" title="SQL"/>
