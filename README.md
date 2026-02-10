@@ -11,4 +11,4 @@ A glimpse of a project i have worked on
 This project analyzes the sales performance of Blinkit grocery outlets using an interactive dashboard. The goal was to uncover key business insights related to sales, outlet characteristics, product categories, and customer preferences, and to present them in a clear, decision-friendly format for stakeholders.
 
 The dashboard enables users to monitor overall performance, compare outlet types and sizes, and understand factors influencing total sales.
-
+![image](https://github.com/Goodness1151/portforlio/blob/457cc96c9ccf3b8126055d8c09fd8bb3c39b71d9/IMG-20260118-WA0003.jpg)
