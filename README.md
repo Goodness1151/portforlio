@@ -12,4 +12,4 @@ This project analyzes the sales performance of Blinkit grocery outlets using an 
 
 The dashboard enables users to monitor overall performance, compare outlet types and sizes, and understand factors influencing total sales.
 ![image](https://github.com/Goodness1151/portforlio/blob/457cc96c9ccf3b8126055d8c09fd8bb3c39b71d9/IMG-20260118-WA0003.jpg)
-[Read](https://www.linkedin.com/posts/goodness-uche-9213033a6_blinkit-grocery-outlet-performance-dashboard-activity-7426897839928107009-BUTE?utm_source=share&utm_medium=member_android&rcm=ACoAAGNbXWkBqvxaY3eQi__E0ZHT9ZrDedlmWiI)
+[Read More](https://www.linkedin.com/posts/goodness-uche-9213033a6_blinkit-grocery-outlet-performance-dashboard-activity-7426897839928107009-BUTE?utm_source=share&utm_medium=member_android&rcm=ACoAAGNbXWkBqvxaY3eQi__E0ZHT9ZrDedlmWiI)
