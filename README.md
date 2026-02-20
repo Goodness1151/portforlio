@@ -17,4 +17,4 @@ The dashboard enables users to monitor overall performance, compare outlet types
 ## BEVERAGE SALES PERFORMANCE ANALYSIS
 This project focuses on analyzing beverage sales performance using Microsoft Excel. A dashboard was created to present key performance indicators (KPIs) such as total sales, total profit, profit margin, sales by region, sales by brand, and sales trends over time. The dashboard provides a clear and interactive view of business performance.
 
-![image]( https 2026-02-20 091635.png)
+![image] (https://github.com/Goodness1151/portforlio/blob/457cc96c9ccf3b8126055d8c09fd8bb3c39b71d9/IMG-20260118-WA0003.jpg)
